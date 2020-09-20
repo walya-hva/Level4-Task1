@@ -1,6 +1,8 @@
-package nl.hva.fdmci.mad.level4_task1.database
+package nl.hva.fdmci.mad.level4_task1.repository
 
 import android.content.Context
+import nl.hva.fdmci.mad.level4_task1.dao.ProductDao
+import nl.hva.fdmci.mad.level4_task1.database.ShoppingListRoomDatabase
 import nl.hva.fdmci.mad.level4_task1.model.Product
 
 class ProductRepository(context: Context) {

@@ -1,4 +1,4 @@
-package nl.hva.fdmci.mad.level4_task1.database
+package nl.hva.fdmci.mad.level4_task1.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
